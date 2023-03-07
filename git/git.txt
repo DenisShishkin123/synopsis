@@ -1,7 +1,15 @@
+https://habr.com/ru/company/ruvds/blog/599929/
+
 
 git config --global user.name "Tara Routray"
 git config --global user.email "dev@tararoutray.com"
 
 git init
 
+git add .
 
+git commit -m "comment"
+
+git log
+
+git show 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
