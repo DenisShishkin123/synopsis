@@ -13,3 +13,18 @@ git commit -m "comment"
 git log
 
 git show 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
+
+git status .
+
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   git.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+
+3
